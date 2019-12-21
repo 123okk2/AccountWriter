@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_201"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-compress-1.19/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-compress-1.19/commons-compress-1.19-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-compress-1.19/commons-compress-1.19-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-compress-1.19/commons-compress-1.19-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mkjh9/Downloads/poi-4.1.0/commons-compress-1.19/commons-compress-1.19-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
